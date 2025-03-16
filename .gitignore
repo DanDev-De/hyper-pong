@@ -1,0 +1,49 @@
+# Python virtual environments
+venv*/
+.env/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Build and distribution directories
+build/
+dist/
+*.egg-info/
+*.egg
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.bak
+*~
+.*.swp
+
+# PyInstaller specific
+*.spec
+
+# IDE folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Local configuration
+.python-version
+
