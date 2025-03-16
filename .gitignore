@@ -47,3 +47,6 @@ logs/
 # Local configuration
 .python-version
 
+# Temporary directories
+music/
+sounds/
